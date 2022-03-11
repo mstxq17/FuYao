@@ -11,7 +11,6 @@ git clone https://github.com/ExpLangcn/FuYao.git
 cd FuYao & pip3 install -r requirements.txt
 vim config.yaml
 ```
-**[Help](https://github.com/ExpLangcn/WanLi/wiki/Help---%E5%B8%AE%E5%8A%A9)**
 
 ```
 python3 FuYao.py
