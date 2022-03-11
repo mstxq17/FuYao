@@ -9,13 +9,10 @@
 ```
 V1.2
     - 新增Docker一键部署 感谢群成员 [@l0ners](https://github.com/l0ners) 支持!
-
 V1.1
     - 修复报错logs问题
-
 V1.0
     - 脚本发布
-
 ```
 
 # docker使用教程
