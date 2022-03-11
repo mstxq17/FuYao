@@ -46,6 +46,3 @@ python3 FuYao.py
 * **[subfinder](https://github.com/projectdiscovery/subfinder)**
 * **[httpx](https://github.com/projectdiscovery/httpx)**
 * **[nuclei](https://github.com/projectdiscovery/nuclei)**
-# FuYao
-# FuYao
-# FuYao
