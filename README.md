@@ -62,15 +62,11 @@ python3 FuYao.py
 
 # 微信群
 
-<img width="150" height="150" src="img/WechatIMG455.jpeg"/>
-
-![WechatIMG455.jpeg](img/WechatIMG455.jpeg)
+<img width="400" height="500" src="img/WechatIMG455.jpeg"/>
 
 # 作者微信
 
-<img width="150" height="150" src="img/WechatIMG408.jpeg"/>
-
-![WechatIMG408](img/WechatIMG408.jpeg)
+<img width="400" height="500" src="img/WechatIMG408.jpeg"/>
 
 # 知识星球介绍：
 
@@ -82,9 +78,7 @@ python3 FuYao.py
 
 内容方向：`原创安全工具`｜`安全开发`｜`WEB安全`｜`内网渗透`｜`Bypass`｜`代码审计`｜`CTF`｜`免杀`｜`思路技巧`｜`实战分享`｜`最新漏洞`｜`安全资讯`
 
-<img width="150" height="150" src="https://mmbiz.qpic.cn/mmbiz_jpg/9wVk7PSWIjJQzLyRNhDuxwPovLKzY8xqOqAZnicV5ud9Xbic88kerYd3Iyq50wr2kESufRYYR9b9VPCgDc10cdLQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/>
-
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/9wVk7PSWIjJQzLyRNhDuxwPovLKzY8xqOqAZnicV5ud9Xbic88kerYd3Iyq50wr2kESufRYYR9b9VPCgDc10cdLQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+<img width="400" height="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/9wVk7PSWIjJQzLyRNhDuxwPovLKzY8xqOqAZnicV5ud9Xbic88kerYd3Iyq50wr2kESufRYYR9b9VPCgDc10cdLQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/>
 
 # Info
 
