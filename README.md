@@ -8,7 +8,7 @@
 
 ```
 git clone https://github.com/ExpLangcn/FuYao.git
-cd FuYao & pip3 install -r requirements.txt
+cd FuYao & pip3 install -r requirements.txt & mkdir logs/subfinder logs/ksubdomain logs/httpx
 vim config.yaml
 ```
 
