@@ -1,10 +1,44 @@
 # FuYao - 扶摇直上九万里
 
-**[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE) ｜ **[Twitter](https://twitter.com/ExpLang_Cn)** | **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**
+**[Docker Hub](https://hub.docker.com/r/explang/fuyaos)** | **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE) ｜ **[Twitter](https://twitter.com/ExpLang_Cn)** | **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**
 
 **自动化进行资产探测及漏洞扫描｜适用黑客进行赏金活动、SRC活动、大规模攻击使用**
 
-# 使用
+# 更新日志
+
+```
+V1.2
+    - 新增Docker一键部署 感谢群成员 [@l0ners](https://github.com/l0ners) 支持!
+
+V1.1
+    - 修复报错logs问题
+
+V1.0
+    - 脚本发布
+
+```
+
+# docker使用教程
+
+`domain.txt` 存放目标一级域名（主域名）
+
+```
+docker pull explang/fuyao
+docker run -d -it --name fuyao explang/fuyao:v1.2 && docker exec -it -w /FuYao fuyao bash
+```
+
+在domain.txt文件中添加主域名后执行下方命令即可开始自动化扫描（主域名 = xxx.com 这种的！www.xxx.com 属于二级域名！）
+
+```
+vim domain.txt
+python3 FuYao.py
+```
+
+# 源代码使用教程
+
+`domain.txt` 存放目标一级域名（主域名）
+
+`config.yaml` 配置扫描器
 
 ```
 git clone https://github.com/ExpLangcn/FuYao.git
@@ -12,14 +46,12 @@ cd FuYao & pip3 install -r requirements.txt & mkdir logs/subfinder logs/ksubdoma
 vim config.yaml
 ```
 
+在domain.txt文件中添加主域名后执行下方命令即可开始自动化扫描（主域名 = xxx.com 这种的！www.xxx.com 属于二级域名！）
+
 ```
+vim domain.txt
 python3 FuYao.py
 ```
-# 帮助
-
-`domain.txt` 存放目标一级域名（主域名）
-
-`config.yaml` 配置扫描器
 
 **注：目前工具仅限支持Mac系统及Linux系统，建议使用Linux系统！扫描速度与网络有关，建议VPS最少5MB宽带。**
 
