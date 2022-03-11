@@ -47,3 +47,4 @@ python3 FuYao.py
 * **[httpx](https://github.com/projectdiscovery/httpx)**
 * **[nuclei](https://github.com/projectdiscovery/nuclei)**
 # FuYao
+# FuYao
