@@ -1,2 +1,2 @@
-system : 'mac'
-level : 2
+system : 1 # 1 = mac, 2 = linux 根据自己的系统选择对应的编号
+level : 2 # 域名等级，level > 2 的话 ksubdomain 会很慢，建议不要更改
