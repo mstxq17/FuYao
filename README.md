@@ -22,7 +22,7 @@ python3 FuYao.py
 
 `config.yaml` 配置扫描器
 
-**注：**目前工具仅限支持Mac系统及Linux系统，建议使用Linux系统！扫描速度与网络有关，建议VPS最少5MB宽带。
+**注：目前工具仅限支持Mac系统及Linux系统，建议使用Linux系统！扫描速度与网络有关，建议VPS最少5MB宽带。**
 
 # BiLiBiLi
 
